@@ -7,3 +7,4 @@ Car Racing Game using python and pygame.
 ![rd](https://user-images.githubusercontent.com/75152644/130035235-142751ea-69c1-465f-b06a-7804f25ad6ff.png)
 ![red](https://user-images.githubusercontent.com/75152644/130035249-bd4c74e5-bb2f-4bc0-a5de-0f7ff6ae305b.jpg)
 [backsound.zip](https://github.com/shafiraamkhazahra/H_Kelompok-C_Car-Racing/files/7013146/backsound.zip)
+[car-game-main.zip](https://github.com/shafiraamkhazahra/H_Kelompok-C_Car-Racing/files/7013298/car-game-main.zip)
